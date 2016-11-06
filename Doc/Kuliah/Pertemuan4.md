@@ -1,6 +1,6 @@
 **Retrive Data Geospasial**
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict1.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict1.PNG">
 </p>
 **Pembukaan**
 
@@ -29,7 +29,7 @@ Library pysh class shapefile
 
 1. Buka/ baca
 
-Sf = shapefile – Reader (&#39;namafile.shp)
+Sf = shapefile â€“ Reader (&#39;namafile.shp)
 
                 Variable       class      method      inputfile.shp
 
@@ -62,12 +62,12 @@ Untuk Menampilkan Parameter :
 
 Menampilkan jumlah record melalui terminal
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict2.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict2.PNG">
 </p>
 
 Menampilkan jumlah recorc dehan main.py
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict3.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict3.PNG">
 </p>
 <p align="center">
 	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict4.png">
@@ -78,16 +78,16 @@ TUGAS PRAKTEK :
 1. Membuat class geospasial editor
 
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict5.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict5.PNG">
 </p>
 
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict6.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict6.PNG">
 </p>
 2. Membuat Select,where Negara
 
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict7.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pict7.PNG">
 </p>
 
 **Penutup**
