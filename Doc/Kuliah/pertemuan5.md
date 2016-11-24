@@ -2,7 +2,7 @@
 
 **MEMBUAT DAN MENGEDIT DATA GEOSPASIAL**
 <p align="center">
-	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pic8.png">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/pic8.PNG">
 </p>
 **Latar Belakang :**
 
