@@ -2,6 +2,9 @@
 
 **MAP SERVER DAN MAP PROXY**
 
+<p align="center">
+	<img src="https://github.com/Khaeratunnisa/Geografis-Informasi-System/blob/master/img/Capture.PNG">
+</p>
 
 
 1. Latar Belakang
