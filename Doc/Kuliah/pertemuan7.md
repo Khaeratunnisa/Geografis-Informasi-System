@@ -8,7 +8,7 @@ Latar Belakang
 Google map merupakan aplikasi dari google berbasis _geographic information system_ dimana fungsinya untuk mencari lokasi dimuka bumi ini. Pada pembahasan kali ini akan dibahas mengenai map server dan map proxy.
 
 **Isi**
-
+Pembahasan
 Cara untuk menjalankan map proxy dan map server adalah sebagi berikut :
 
 1. Meload data geospasial, mendownload data geospasial di situs   [http://www.halaman.download/](http://www.halaman.download/) kemudian pilih &quot;Producer&quot; dan klik &quot;Indonesia Mapproxy&quot;.
