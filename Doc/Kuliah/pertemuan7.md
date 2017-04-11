@@ -2,8 +2,9 @@
 
 **Tutorial Menjalankan Map Server dan Map Proxy**
 
-**Pembukaan**
 
+**Pembukaan**
+Latar Belakang
 Google map merupakan aplikasi dari google berbasis _geographic information system_ dimana fungsinya untuk mencari lokasi dimuka bumi ini. Pada pembahasan kali ini akan dibahas mengenai map server dan map proxy.
 
 **Isi**
